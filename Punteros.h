@@ -5,9 +5,9 @@
  *
  *    Description:  Clase principal para Punteros
  *
- *        Created:  2019-08-18
+ *        Created:  2019-08-20
  *
- *         Author:  Maikol Guzman Alan mikeguzman@gmail.com
+ *         Author:  Brandon Alexander Arguedas Murillo brandonxd1970@gmail.com
  *   Organization:  Universidad Nacional de Costa Rica
  *
  * =====================================================================================
